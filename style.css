@@ -1,12 +1,11 @@
 body {
   background-color: aquamarine;
 }
- div #ybv {
- background-color: blue;
-   
+div #ybv {
+  background-color: blue;
 }
-div#12{
-background-color: blue;
+div#12 {
+  background-color: blue;
 }
 ul {
   list-style-type: none;
@@ -31,9 +30,12 @@ li a {
 li a:hover {
   background-color: #111;
 }
-#info{
-  background-color:#B399A2  
+#info {
+  background-color: #b399a2;
 }
-body{
-  background-color: #BBE5ED;
+body {
+  background-color: #bbe5ed;
+}
+img {
+  border-radius: 5%;
 }
